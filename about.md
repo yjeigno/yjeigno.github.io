@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Java와 spring을 공부하는 사람입니다!
+Java와 spring을 공부하는 사람입니다.
 
 ### More Information
 
