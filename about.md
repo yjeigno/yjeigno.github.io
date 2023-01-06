@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Java와 spring을 공부하는 사람입니다!
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[1228yj@naver.com](mailto:1228yj@naver.com)
